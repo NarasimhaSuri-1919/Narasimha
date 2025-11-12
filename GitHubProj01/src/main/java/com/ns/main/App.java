@@ -5,8 +5,7 @@ package com.ns.main;
  */
 public class App {
 
-    // ✅ Correct method definition
-    public int sum(int a, int b) {
+     public int sum(int a, int b) {
         return a + b;
     }
 
